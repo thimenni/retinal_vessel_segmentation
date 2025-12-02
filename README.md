@@ -39,7 +39,7 @@ Bài toán thực hiện phân đoạn mạch máu võng mạc từ ảnh võng 
 - **Ground truth**: Được gán nhãn bởi 2 chuyên gia 
 
 ### Dataset CROSS
-- **Tổng cộng**: 54 ảnh train, 26 ảnh test
+- **Tổng cộng**: 34 ảnh train, 26 ảnh test
 - **Đặc điểm**: ảnh được tiền xử lý theo pipeline tiền xử lý dữ liệu
 
 ## Kiến trúc hệ thống
