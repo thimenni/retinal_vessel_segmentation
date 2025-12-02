@@ -118,6 +118,10 @@ Mở và chạy notebook `Full_Pipeline.ipynb`, cuối cùng theo đường dẫ
 Video demo: 
 
 
+https://github.com/user-attachments/assets/281b83f3-b1cb-418d-af8c-c87865183716
+
+
+
 Cấu trúc thư mục cần cấu hình trên ứng dụng Google Drive: 
 ```
 MyDrive/CV/
