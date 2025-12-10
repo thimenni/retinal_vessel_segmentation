@@ -3,7 +3,7 @@
 ## Thông tin môn học
 - **Môn học**: Thị giác máy tính (Computer Vision)
 - **Đề tài**: Mô phỏng phân đoạn mạch máu kết hợp CNN và GNN
-- **Giảng viên**: ThS. Hà Mạnh Toàn
+- **Giảng viên**: TS. Hà Mạnh Toàn
 
 ## Thành viên nhóm
 - **Trần Kiều Hạnh**
